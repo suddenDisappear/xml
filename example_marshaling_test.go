@@ -9,7 +9,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/ECUST-XX/xml"
+	"github.com/suddenDisappear/xml"
 )
 
 type Animal int
